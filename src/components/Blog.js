@@ -6,7 +6,7 @@ const Blog = () => {
       <h1>Blog</h1>
       <section>
         <article>
-          <h2>My firts article</h2>
+          <h2>My first article</h2>
           <p>Let's go</p>
         </article>
       </section>
